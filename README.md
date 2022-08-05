@@ -9,7 +9,7 @@ Install Pyrogram with:<br>
 Get your own Telegram API key from link below:<br>
 <a href='https://my.telegram.org/apps.'>Telegram API key<a/><br>
 
-after that you should fill the <code>config.py.sample</code> with the values that you got and the change the name of file from <code>config.py.sample</code> to <code>config.py</code> after you did save file.<br> 
+after that you should fill the <code>config.py.sample</code> with the values that you got and change the name of file from <code>config.py.sample</code> to <code>config.py</code> after you did save file.<br> 
 
 # How to run
 just run this code:<br>
